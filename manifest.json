@@ -1,0 +1,66 @@
+{
+ "id": "community.misha.picks",
+ "version": "3.1.0",
+ "name": "בשבילי - המלצות אישיות",
+ "description": "שורות אישיות מהיסטוריית הצפייה (נטפליקס + קראנצ׳ירול) ומה שטרנדי וחדש עכשיו בישראל לפי JustWatch. נבנה 10.11.2026.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "for-you",
+   "name": "בשבילי"
+  },
+  {
+   "type": "movie",
+   "id": "il-trending",
+   "name": "טרנדי עכשיו בישראל"
+  },
+  {
+   "type": "movie",
+   "id": "il-new",
+   "name": "נוסף לאחרונה בישראל"
+  },
+  {
+   "type": "movie",
+   "id": "il-nfx-now",
+   "name": "נטפליקס עכשיו"
+  },
+  {
+   "type": "movie",
+   "id": "il-atp-now",
+   "name": "Apple TV+ עכשיו"
+  },
+  {
+   "type": "movie",
+   "id": "il-prv-now",
+   "name": "פריים עכשיו"
+  },
+  {
+   "type": "movie",
+   "id": "il-mxx-now",
+   "name": "HBO Max עכשיו"
+  },
+  {
+   "type": "series",
+   "id": "anime-for-you",
+   "name": "אנימה - בשבילי"
+  },
+  {
+   "type": "movie",
+   "id": "anime-now",
+   "name": "אנימה עכשיו"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false
+ }
+}
