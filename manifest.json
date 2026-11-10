@@ -1,8 +1,8 @@
 {
  "id": "community.misha.picks",
- "version": "3.2.1",
+ "version": "3.3.0",
  "name": "בשבילי - המלצות אישיות",
- "description": "שורות אישיות מהיסטוריית הצפייה (נטפליקס + קראנצ׳ירול) ומה שטרנדי וחדש עכשיו בישראל לפי JustWatch. נבנה 10.11.2026.",
+ "description": "שורות אישיות מהיסטוריית הצפייה (נטפליקס + קראנצ׳ירול) ה-Top 10 הרשמי של נטפליקס, ומה שטרנדי וחדש עכשיו בישראל לפי JustWatch. נבנה 10.11.2026.",
  "resources": [
   "catalog"
  ],
@@ -21,13 +21,13 @@
   },
   {
    "type": "movie",
-   "id": "il-top10-series",
-   "name": "Top 10 סדרות עכשיו בישראל"
+   "id": "nfx-top10-series",
+   "name": "נטפליקס Top 10 השבוע - סדרות"
   },
   {
    "type": "movie",
-   "id": "il-top10-movies",
-   "name": "Top 10 סרטים עכשיו בישראל"
+   "id": "nfx-top10-movies",
+   "name": "נטפליקס Top 10 השבוע - סרטים"
   },
   {
    "type": "movie",
